@@ -30,15 +30,18 @@
 ### 🫀 [Heart Disease Prediction — MLOps](https://github.com/SahilDogra23/Heart-Disease-Prediction-MLOps)
 End-to-end ML system predicting heart disease from clinical features
 - **82% accuracy, 85% recall** optimized for healthcare
-- FastAPI REST API + Streamlit frontend + Docker
-- 🌐 [Live App](https://heart-disease-prediction-bekd7nprm3xyizjtd2twp2.streamlit.app) | ⚙️ [API](https://heart-disease-api-jh78.onrender.com/docs)
+- FastAPI REST API + Streamlit frontend + Docker + Docker Hub
+- 🌐 [Live App](https://heart-disease-prediction-bekd7nprm3xyizjtd2twp2.streamlit.app)
+- ⚙️ [API](https://heart-disease-api-jh78.onrender.com/docs)
+- 🐳 [Docker Hub](https://hub.docker.com/r/sahil2323dogra/heart-disease-api)
 
 ### 🏠 [House Price Prediction — MLOps](https://github.com/SahilDogra23/House-Price-Prediction-MLOps)
 End-to-end ML system predicting California house prices using Random Forest
 - **83% R²** with feature engineering & log transformation
-- FastAPI REST API + Streamlit frontend + Docker
-- 🌐 [Live App](https://house-price-prediction-mlops-eleqsctggryvmy9hqyjevp.streamlit.app) | ⚙️ [API](https://house-price-api-9hmc.onrender.com/docs)
-
+- FastAPI REST API + Streamlit frontend + Docker + Docker Hub
+- 🌐 [Live App](https://house-price-prediction-mlops-eleqsctggryvmy9hqyjevp.streamlit.app)
+- ⚙️ [API](https://house-price-api-9hmc.onrender.com/docs)
+- 🐳 [Docker Hub](https://hub.docker.com/r/sahil2323dogra/house-price-api)
 ---
 
 ## 📊 GitHub Stats
