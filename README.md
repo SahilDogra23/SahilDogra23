@@ -27,6 +27,12 @@
 
 ## 🏗️ Featured Projects
 
+### 🤖 [Portfolio RAG Chatbot](https://github.com/SahilDogra23/Portfolio-RAG-Chatbot)
+AI-powered chatbot answering questions about my portfolio using RAG
+- Built with LangChain, Groq LLM (Llama 3), FAISS vector database
+- Ask about my skills, projects, and experience!
+- 🌐 [Live App](https://portfolio-rag-chatbot-46mgt92t4s4kcymkmdt2kw.streamlit.app/)
+
 ### 📄 [Resume Screener — NLP](https://github.com/SahilDogra23/Resume-Screener-NLP)
 AI-powered resume screener using TF-IDF and Cosine Similarity
 - Matches resume against job descriptions and finds missing skills
