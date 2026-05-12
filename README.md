@@ -27,6 +27,12 @@
 
 ## 🏗️ Featured Projects
 
+### 🏦 [Bank Customer Churn Prediction — MLOps](https://github.com/SahilDogra23/Bank-Churn-Prediction-MLOps)
+Neural Network (MLP) predicting bank customer churn from 10,000 customer records
+- **85% accuracy** with key insight: German customers churn 2x more
+- FastAPI REST API + Streamlit frontend
+- 🌐 [Live App](your-streamlit-url) | ⚙️ [API](https://bank-churn-predictions-mlops.onrender.com/docs)
+
 ### 🫀 [Heart Disease Prediction — MLOps](https://github.com/SahilDogra23/Heart-Disease-Prediction-MLOps)
 End-to-end ML system predicting heart disease from clinical features
 - **82% accuracy, 85% recall** optimized for healthcare
