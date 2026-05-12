@@ -27,6 +27,12 @@
 
 ## 🏗️ Featured Projects
 
+### 📄 [Resume Screener — NLP](https://github.com/SahilDogra23/Resume-Screener-NLP)
+AI-powered resume screener using TF-IDF and Cosine Similarity
+- Matches resume against job descriptions and finds missing skills
+- Built with NLP, scikit-learn and Streamlit
+- 🌐 [Live App](https://resume-screener-nlp-nvwawvu9cn4ilkz9uqshl5.streamlit.app/)
+
 ### 🏦 [Bank Customer Churn Prediction — MLOps](https://github.com/SahilDogra23/Bank-Churn-Prediction-MLOps)
 Neural Network (MLP) predicting bank customer churn from 10,000 customer records
 - **85% accuracy** with key insight: German customers churn 2x more
