@@ -30,8 +30,10 @@
 ### 🏦 [Bank Customer Churn Prediction — MLOps](https://github.com/SahilDogra23/Bank-Churn-Prediction-MLOps)
 Neural Network (MLP) predicting bank customer churn from 10,000 customer records
 - **85% accuracy** with key insight: German customers churn 2x more
-- FastAPI REST API + Streamlit frontend
-- 🌐 [Live App](your-streamlit-url) | ⚙️ [API](https://bank-churn-predictions-mlops.onrender.com/docs)
+- FastAPI REST API + Streamlit frontend + Docker + Docker Hub
+- 🌐 [Live App](https://bank-churn-prediction-mlops-7c2dhjpsofl2n2n5kamqp4.streamlit.app/)
+- ⚙️ [API](https://bank-churn-predictions-mlops.onrender.com/docs)
+- 🐳 [Docker Hub](https://hub.docker.com/r/sahil2323dogra/bank-churn-api)
 
 ### 🫀 [Heart Disease Prediction — MLOps](https://github.com/SahilDogra23/Heart-Disease-Prediction-MLOps)
 End-to-end ML system predicting heart disease from clinical features
