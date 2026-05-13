@@ -1,6 +1,6 @@
 # Hi, I'm Sahil Dogra 👋
 
-🎯 Aspiring Data Scientist | ML Engineer | Targeting NYC data roles & remote opportunities
+🎯 Data Scientist | ML Engineer | Targeting NYC data roles & remote opportunities
 
 ---
 
