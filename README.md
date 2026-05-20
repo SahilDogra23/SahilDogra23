@@ -9,7 +9,7 @@
 - 🔭 Building end-to-end ML systems with FastAPI, Streamlit & Docker
 - 🌱 Currently working through **Hands-On ML with Scikit-Learn & TensorFlow** (Géron)
 - 💼 Open to Data Science & ML Engineering roles in NYC or remote
-- 📍 Based in West Orange, NJ
+- 📍 Based in Orange, NJ
 
 ---
 
