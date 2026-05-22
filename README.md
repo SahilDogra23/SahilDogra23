@@ -30,7 +30,7 @@
 ### 🤖 [Portfolio RAG Chatbot](https://github.com/SahilDogra23/Portfolio-RAG-Chatbot)
 AI-powered chatbot answering questions about my portfolio using RAG
 - Built with LangChain, Groq LLM (Llama 3), FAISS vector database
-- Ask about my skills, projects, and experience!
+- Ask about my skills, projects, and experience and you will get more insights about my skill level!
 - 🌐 [Live App](https://portfolio-rag-chatbot-46mgt92t4s4kcymkmdt2kw.streamlit.app/)
 
 ### 📄 [Resume Screener — NLP](https://github.com/SahilDogra23/Resume-Screener-NLP)
